@@ -1,5 +1,5 @@
 # 75-Day-Code-Challenge
-i am taken the 75 day code challenge ... No Pain No Gain 😎
+i am taken of 75 day code challenge ... No Pain No Gain 😎
 
 # Git Commands
 
