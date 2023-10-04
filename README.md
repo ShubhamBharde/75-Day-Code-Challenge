@@ -56,5 +56,37 @@ it convert source code to machine code
 it execute program line by line, when program is running condition.
 
 JavaScript is an interpreted language.
-## 
+## Javascript Topic :-
+### Javascript :-
+JavaScript is a scripting & programming language of web.
+
+javascript developed by Brendan Eich in the year of 1995 at Netscape orgainization.
+
+initially name is livescript ,thats time java was famous language thats why javascript developer change their name from livescript to javascript.
+
+dynamic typed language & Interpreted language.
+
+used for make interactive/dynamic webpages from static webpages. 
+
+it adds behaviour to webpages. and mainly used for functionality purpose & improves UX [User Experience].
+
+### ECMAScript :-
+it is standard based on javascript .
+
+### Where js code is run ?
+1. in Browser console
+1. Node js runtime environment 
+1. with help of script tag in html page
+
+### How to run code with help of node js runtime environment ?
+node filename.js
+
+### JavaScript Output :-
+1. console.log()
+1. alert()   // only on browser
+1. document.write()    // only on browser
+### JavaScript Input :-
+1. prompt()  // only on browser
+2. CLI using readline-sync dependencies  // npm i readline-sync  
+3. GUI using addEventListener( event, function )   // only on browser
 
